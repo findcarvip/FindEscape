@@ -1,2 +1,2 @@
 # FindEscape
-Giá xe Ford Escape
+[Giá xe Ford Escape](https://findcar.vip/ford-escape)
